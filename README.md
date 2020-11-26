@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/breatheco-de/exercise-family-static-api)
+
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Family Static API
 
 The Jackson Family needs a static API! We need to build the *data structures* and create API endpoint to interact with it using Postman.
